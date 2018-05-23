@@ -13,7 +13,7 @@
     <copyright>$copyright$</copyright>
     <repository url="$repoUrl$" />
     <developmentDependency>true</developmentDependency>
-    <tags>Toslyn Build Tool</tags>
+    <tags>Roslyn Build Tool</tags>
     <serviceable>true</serviceable>
     <language>en-US</language>
   </metadata>
